@@ -1,0 +1,136 @@
+/* el body centré  */
+body{
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+
+/* partie navigation  */
+
+
+.logo{
+    width: 207px;
+
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+
+/*partie navbar*/
+
+.navigation{
+    display: flex;
+list-style: none;
+}
+.navigation li {
+    margin: 15px;
+}
+.navigation a{
+    text-decoration: none;
+    color: #ababab;
+}
+span{
+    color: #00b39b;
+}
+
+.navigation a:hover{
+    text-decoration: none;
+    color: #00b39b;
+}
+
+/* partie section 1 */
+
+ .lead{
+    width: 40px;
+    margin-left: 466px;
+}
+
+.section1 h1{
+    text-align: center;
+    color:#00b39b
+}
+/* section2 */
+
+.section2{
+    display: flex;
+}
+.section2 p{
+/* border: 1px solid black; */
+padding: 5px;
+margin: 15px;
+width: 600px;
+}
+.section3_div1{
+    background-color: aquamarine;
+    height: 200px;
+    width: 240px;
+    padding: 14px;
+    border-radius: 8px;
+}
+.section3_div2{
+    background-color: rgb(63, 98, 194);
+    height: 200px;
+    width: 240px;
+    padding: 14px;
+    border-radius: 8px;
+}
+.section3_div3{
+    background-color: rgb(11, 38, 105);
+    height: 200px;
+    width: 240px;
+    padding: 14px;
+    border-radius: 8px;
+}
+.section3{
+    display: flex;
+    justify-content: space-around;
+    margin: 61px;
+}
+
+/* section5 */
+
+.section5{
+    display: flex;
+    justify-content: space-around;
+    background-color: #00b39b;
+}
+.section5divg{
+    width: 200px;
+}
+
+.divdroite1{
+    border: 1px solid black
+}
+
+.divdroite2{
+    border: 1px solid black;
+}
+
+.div11{
+    border: 1px solid rebeccapurple;
+    background-color: aliceblue;
+    border-radius:5px ;
+
+}
+.div22{
+    border: 1px solid rebeccapurple;
+background-color: aliceblue;
+border-radius:5px ;
+
+}
+.div33{
+    border: 1px solid rebeccapurple;
+background-color: aliceblue;
+border-radius:5px ;
+}
+.div44{
+    border: 1px solid rebeccapurple;
+background-color: aliceblue;
+border-radius:5px ;
+
+}
+.divmere{
+    display: flex;
+}
